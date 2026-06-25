@@ -8,6 +8,7 @@ jobs:
     steps:
       - name: Print greeting
         run: echo "Hello jaskaran"
+        run: echo "this is running now..."
       - name: Print goodbye
         run: echo 'Done -bye dear'
         
